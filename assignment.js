@@ -81,6 +81,7 @@ function perfectFriend(names) {
     }
     return hightCaracter;
 }
+//for test
 
 // let setFriendsName = perfectFriend(['abir', 'alvi', 'Adnan', 'Rafi', 'Era', 'Mim', 'hamim', 'Fahmi']);
 // console.log(setFriendsName);
